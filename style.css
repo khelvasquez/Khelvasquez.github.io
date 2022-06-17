@@ -108,7 +108,7 @@ section{
 }
 .about{
 	display: flex;
-	background: url("images/kishes1.jpeg") repeat center;
+	background: url("images/Maroon.jpeg") repeat center;
 	background-size: cover;
 	background-attachment: scroll;
 	font-family: 'Montserrat', sans-serif;
@@ -147,7 +147,7 @@ section{
 /*Style for About Section */
 .services{
 	color: black;
-	background: Rebeccapurple;
+	background: Maroon;
 }
 .services .title{
 	font-family: 'Montserrat', sans-serif;
