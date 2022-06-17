@@ -62,9 +62,9 @@
 /*Style for Home Section */
 .home{
 	display: flex;
-	background: url("images/Cavs.jpeg") repeat center;
+	background: url("images/Maroon.jpeg") repeat center;
 	height: 100vh;
-	color: yellow;
+	color: white;
 	min-height: 500px;
 	max-height: 720px;
 	background-size: cover;
