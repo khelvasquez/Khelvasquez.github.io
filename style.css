@@ -376,7 +376,7 @@ background: Maroon;
 }
 .contact .right form .field input:focus,
 .contact .right form .textarea textarea:focus{
-	border-color: red;
+	border-color: maroon;
 }
 .contact .right form .textarea textarea{
 	padding-top: 10px;
